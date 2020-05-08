@@ -142,3 +142,11 @@ footer {
   width: 100%;
   text-align: center;
 }
+
+.footer-btn {
+  border-bottom: black 3px solid;
+  padding: 20px 40px;
+  margin-top: 150px;
+  color: azure;
+  text-decoration: none;
+}
