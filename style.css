@@ -110,27 +110,27 @@ body {
   transition: all 0.6s ease;
 }
 
-#item1 {
+.item1 {
   background-image: url('./imgfile/desktop.jpg');
   background-size: cover;
 }
-#item2 {
+.item2 {
   background-image: url('./imgfile/photo.jpg');
   background-size: cover;
 }
-#item3 {
+.item3 {
   background-image: url('./imgfile/スクリーンショット 2020-05-02 9.40.26.png');
   background-size: cover;
 }
-#item4 {
+.item4 {
   background-image: url('./imgfile/IMG_0027.JPG');
   background-size: cover;
 }
-#item5 {
+.item5 {
   background-image: url('./imgfile/20191009_200204_0059.jpeg');
   background-size: cover;
 }
-#item6 {
+.item6 {
   background-image: url('./imgfile/david-brooke-martin-lFTtQqVfx6g-unsplash.png');
   background-size: cover;
 }
